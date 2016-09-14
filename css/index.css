@@ -1,0 +1,23 @@
+body, p, div {
+  padding: 0px; }
+
+.image-dragger {
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  line-height: 100%;
+  border: 1px solid #ccc;
+  min-height: 100px; }
+  .image-dragger .image-border {
+    background: #ccc; }
+
+.image-combine-frame {
+  margin: 50px auto;
+  border: 1px solid #e4e4e4;
+  min-height: 400px;
+  padding: 0px; }
+
+.bg-image-container {
+  overflow: scroll; }
+
+/*# sourceMappingURL=index.css.map */

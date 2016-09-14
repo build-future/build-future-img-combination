@@ -1,0 +1,22 @@
+{
+  "name": "build-future-img-combination",
+  "description": "A image combination processor",
+  "main": "index.js",
+  "authors": [
+    "samuelzuuka"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "image",
+    "process",
+    "js"
+  ],
+  "homepage": "https://github.com/samuelzuuka/build-future-img-combination",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
